@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = ./backend
+	url = https://github.com/Jackyman666/momentum-ai-backend.git
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/Jackyman666/momentum-ai-frontend.git
